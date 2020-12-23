@@ -54,7 +54,19 @@ The "Functional" dimension can be put higher up the structure if there are seper
   * Merchant
   * Units
   * Players
-  * Prisoners  
+  * Prisoners
+  * Abilities
+  * Concepts
+  * Monsters
+  * Nations
+  * Races
+  * Buildings
+  * Communities
+  * Occupations
+  * Terrain
+  * Items
+  * Spellbooks
+  * Treasure
 5. Functional
   * audio
   * image
