@@ -15,7 +15,19 @@ Using a seperate repository is uncommen for amateur game development. This shoul
 The conversion proces should be documented so it is repeatable for all the assets and for other pixaled games.
 
 ## Dimensions for the Folder structure
-Some dimensions may be uncommon for game creators like the screenplay and Core knowledge psychology dimension.
+The folder structure tries to group the assets by specific dimensions that are easy to determin thus making the tree structure easy and fast to navigate and also easy to order and maintain.
+Getting to a specific asset could be done by answering a number of questions.
+1. What release should the asset be in?
+2. Is the asset affected by game time and if so in what act should it be?
+3. In what knowledge category should the asset be sorted?
+4. For what game mechanic is the asset used?
+5. To what game specific thing belongs the asset to?
+6. What function has the asset?
+7. To what asset belongs this version of the asset to?
+
+The folder structure has folders that are not used currently like dlc, expansion, act1, act2, act3, model, video, etc. but function as specific extension points that make it easier to add assets in the future while not disturbing the structure. 
+
+Some dimensions may be uncommon for game creators like the screenplay and Core knowledge psychology dimension. These are added as easy to determin categories and natural to humans, so everybody can understand them. These categories make the structure also more stable as for instance a scepter may start out in possesion of Tauron, a game specific character, then be usable by all characters, a game mechanic, and finaly be also usable by mercenaries, another game mechanic. Putting the scepter asset in the Tauron folder initialy then moving it to the characters folder and finaly to some folder above characters and mercenaries, is confusing. It's better to identify it as it's own category and put it in the props/MagicalItems folder in the first place and point to that whenever it is needed.
 
 Screenplay writers use a number of types that are usefull for games. This is more obvious for for Visual Novels (VN), but are also applicable to more mechanical games.
 In writing a screenplay or storytelling in general the "Inciting incident" is the moment where the hero changes from his normal routine to his story arc. This generaly changes the visual imagry of the hero and the world the hero is in. In the case of Master of Magic the wizard is the hero and the game tells his story. While being banished the game could use the assets from Act2 instead of Act1. 
