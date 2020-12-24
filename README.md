@@ -3,10 +3,12 @@ The assets for the remake of Master of Magic
 
 The aims of the Asset repository are:
 1. Use the Large File Structure (LFS) flag on the repository containing binary assets.
-2. Have the asset repository used in another repository as a submodule or subtree.
-3. Convert Scaled Vector Graphics (SVG) versions of the assets so the game can be scaled to any size.
-4. Document the asset conversion process
-5. Have a geniric folder structure based on a number of dimension that can be reused for other games
+2. Have seperate branches for the complete asset tree (master), for asset updates and for asset development steps. 
+3. Have the asset repository used in another repository as a submodule or subtree.
+4. Convert Scaled Vector Graphics (SVG) versions of the assets so the game can be scaled to any size.
+5. Document the asset conversion process
+6. Have a generic folder structure based on a number of dimension that can be reused for other games
+7. Make it possible to create a ID-Asset Index from the folder structure so Asset update packages can override and extend existing assets.
 
 ## Asset repository with LFS used by engine repository
 Using a seperate repository is uncommen for amateur game development. This should document and demistify the proces.
@@ -16,6 +18,8 @@ The conversion proces should be documented so it is repeatable for all the asset
 
 ## Dimensions for the Folder structure
 The folder structure tries to group the assets by specific dimensions that are easy to determin thus making the tree structure easy and fast to navigate and also easy to order and maintain.
+Creating an ID-Asset Index from the structure, mainly from the logical parts, would make updating and reordering assets more flexible, as the location of the assets is gotten via the index and thus indirect, being able to be redirected.
+
 Getting to a specific asset could be done by answering a number of questions.
 1. What release should the asset be in?
 2. Is the asset affected by game time and if so in what act should it be?
