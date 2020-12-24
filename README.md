@@ -41,6 +41,17 @@ In developmental psychology core knowledge is defined as the knowledge people an
 The 5 dimensions match with the types used in screenplay writing. 
 Humans can sort things easily into one of the dimension, as they are fundamental do being alive, and can thus function as a sorting function for the "Game Mechanics" and "Game Specific" things.
 
+### Merging by maintaining standard dimensions 
+By maintaining the standard dimensions of the folder stucture merging with updates or other games is possible without conflict.
+
+Possible games to merge assets with are:
+* Colonization
+* Civilisation
+* Warlords
+* Age of Wonders
+* Kings Bounty
+* Heroes of Might and Magic
+
 ### Ommiting dimensions 
 Some dimensions can be ommited from the folder structure, but are added here for completeness and compatibility with other games. 
 * If there is only 1 release the "Release version" dimension can be ommited.
