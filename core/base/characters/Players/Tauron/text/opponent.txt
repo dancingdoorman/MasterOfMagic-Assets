@@ -1,0 +1,12 @@
+If not chosen, Tauron may appear randomly among the computer-controlled opponent Wizards. Their finalized Spellbook and Retort picks strongly influence these Wizards' die rolls for AI Personality and Objective. Tauron's typical traits are predicted below.
+
+Wizard Tauron.png
+Tauron	Personality	Objective
+Chaotic	62%	Expansionist	27%
+Ruthless	15%	Militarist	27%
+Aggressive	15%	Theurgist	27%
+Maniacal	8%	Perfectionist	18%
+Peaceful	0%
+Lawful	0%
+
+Higher Difficulties subject a Wizard's default profile to increasingly arbitrary adjustments, including exposure to random Realms and skills. Tauron's Chaos ranks nearly always remain a dominant influence on his AI Personality even after these adjustments, though any randomly-picked Retorts at high Difficulty settings can sway him to roll something unexpected. At the "Impossible" setting, be prepared for anything.

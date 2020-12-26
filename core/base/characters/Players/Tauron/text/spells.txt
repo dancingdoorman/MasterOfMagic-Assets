@@ -1,0 +1,19 @@
+At the start of the game, a non-customized Tauron knows all Common Chaos spells except for Warp Wood in the official game, or Wall of Fire from the unofficial 1.40 Insecticide patch onward. A randomly generated opposing Tauron may end up with 11 Spellbooks. In this case, he will also know the Uncommon Spells Lightning Bolt and Doom Bat, as well as the Rare Spell Efreet (respectively Lightning Bolt, Chimeras, and Doom Bolt in the unofficial patches). For other book combinations, see the Wizard article.
+
+Starting Spells depending on Master of Magic Version
+official patch 1.31	unofficial patch 1.40
+Fire Bolt
+Fire Elemental
+Eldritch Weapon
+Hell Hounds
+Corruption	Warp Creature
+Shatter
+Wall of Fire
+Disrupt	 	 	Fire Bolt
+Eldritch Weapon
+Hell Hounds
+Warp Wood
+Fire Elemental	Corruption
+Shatter
+Warp Creature
+Disrupt
